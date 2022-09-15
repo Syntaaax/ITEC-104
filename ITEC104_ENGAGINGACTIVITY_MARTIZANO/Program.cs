@@ -5,22 +5,20 @@
         public int age;
         public string compTraining;
     }
-    public static void Main(string[] args){
+    public static void Main(string[] args)
+    {
+        Employee employee1;
 
-        Employee emp1;
+        employee1.firstName = "Juan";
+        employee1.lastName = "Dela Cruz";
+        employee1.age = 25;
+        employee1.compTraining = "Yes";
 
-        Console.WriteLine("Enter your First Name: ");
-        emp1.firstName = Console.ReadLine();
-        Console.WriteLine("Enter your Last Name: ");
-        emp1.lastName = Console.ReadLine();
-        Console.WriteLine("Enter your Age: ");
-        emp1.age = int.Parse(Console.ReadLine());
-        Console.WriteLine("Completed Training?");
-        emp1.compTraining = Console.ReadLine();
         Console.WriteLine("\nYou entered");
-        Console.WriteLine("First Name: " + emp1.firstName);
-        Console.WriteLine("Last Name: "  + emp1.lastName);
-        Console.WriteLine("Age: " + emp1.age);
-        Console.WriteLine("Completed Training? " + emp1.compTraining);
+        Console.WriteLine("First Name: " + employee1.firstName);
+        Console.WriteLine("Last Name: "  + employee1.lastName);
+        Console.WriteLine("Age: " + employee1.age);
+        Console.WriteLine("Completed Training? " + employee1.compTraining);
+        Console.ReadKey();
     }
 }
