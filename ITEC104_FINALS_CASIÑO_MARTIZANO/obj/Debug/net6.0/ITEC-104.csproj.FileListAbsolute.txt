@@ -1,0 +1,15 @@
+C:\Users\Chin\Documents\GitHub\ITEC-104\ITEC104_FINALS_CASIÑO_MARTIZANO\bin\Debug\net6.0\ITEC-104.exe
+C:\Users\Chin\Documents\GitHub\ITEC-104\ITEC104_FINALS_CASIÑO_MARTIZANO\bin\Debug\net6.0\ITEC-104.deps.json
+C:\Users\Chin\Documents\GitHub\ITEC-104\ITEC104_FINALS_CASIÑO_MARTIZANO\bin\Debug\net6.0\ITEC-104.runtimeconfig.json
+C:\Users\Chin\Documents\GitHub\ITEC-104\ITEC104_FINALS_CASIÑO_MARTIZANO\bin\Debug\net6.0\ITEC-104.dll
+C:\Users\Chin\Documents\GitHub\ITEC-104\ITEC104_FINALS_CASIÑO_MARTIZANO\bin\Debug\net6.0\ITEC-104.pdb
+C:\Users\Chin\Documents\GitHub\ITEC-104\ITEC104_FINALS_CASIÑO_MARTIZANO\obj\Debug\net6.0\ITEC-104.csproj.AssemblyReference.cache
+C:\Users\Chin\Documents\GitHub\ITEC-104\ITEC104_FINALS_CASIÑO_MARTIZANO\obj\Debug\net6.0\ITEC-104.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chin\Documents\GitHub\ITEC-104\ITEC104_FINALS_CASIÑO_MARTIZANO\obj\Debug\net6.0\ITEC-104.AssemblyInfoInputs.cache
+C:\Users\Chin\Documents\GitHub\ITEC-104\ITEC104_FINALS_CASIÑO_MARTIZANO\obj\Debug\net6.0\ITEC-104.AssemblyInfo.cs
+C:\Users\Chin\Documents\GitHub\ITEC-104\ITEC104_FINALS_CASIÑO_MARTIZANO\obj\Debug\net6.0\ITEC-104.csproj.CoreCompileInputs.cache
+C:\Users\Chin\Documents\GitHub\ITEC-104\ITEC104_FINALS_CASIÑO_MARTIZANO\obj\Debug\net6.0\ITEC-104.dll
+C:\Users\Chin\Documents\GitHub\ITEC-104\ITEC104_FINALS_CASIÑO_MARTIZANO\obj\Debug\net6.0\refint\ITEC-104.dll
+C:\Users\Chin\Documents\GitHub\ITEC-104\ITEC104_FINALS_CASIÑO_MARTIZANO\obj\Debug\net6.0\ITEC-104.pdb
+C:\Users\Chin\Documents\GitHub\ITEC-104\ITEC104_FINALS_CASIÑO_MARTIZANO\obj\Debug\net6.0\ITEC-104.genruntimeconfig.cache
+C:\Users\Chin\Documents\GitHub\ITEC-104\ITEC104_FINALS_CASIÑO_MARTIZANO\obj\Debug\net6.0\ref\ITEC-104.dll
